@@ -56,3 +56,5 @@ Or trigger a single immediate update:
 ```bash
 python rpc.py --config rpc-profiles.json --once
 ```
+
+<!-- updated: 2026-09-13 -->
